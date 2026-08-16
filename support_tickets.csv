@@ -1,0 +1,121 @@
+ticket_id,subject,body,category
+45,Printer not working,The office printer is not responding to print requests.,Technical
+48,Dashboard problem,The dashboard widgets are not displaying correctly.,Technical
+5,Billing amount,Please explain why my latest bill is higher than usual.,Billing
+56,Screen issue,The application screen is displaying incorrectly.,Technical
+27,Overcharged,I believe I have been overcharged for this service.,Billing
+65,Joining documents,Please tell me which documents are required for joining.,HR
+74,Performance review,When will the next performance review take place?,HR
+11,Card payment issue,My card was charged but the payment still shows as pending.,Billing
+41,Database error,The application is showing a database connection error.,Technical
+108,Team announcement,Please share the latest announcement with the team.,General
+19,Outstanding balance,Please tell me why my account shows an outstanding balance.,Billing
+63,Salary slip,I need a copy of my latest salary slip.,HR
+12,Duplicate invoice,I received two invoices for the same billing period.,Billing
+37,Email not working,My work email is not sending or receiving messages.,Technical
+90,Exit formalities,Please provide the steps for completing exit formalities.,HR
+92,Company announcement,Where can I find the latest company announcements?,General
+110,General support,I need assistance with a general company-related question.,General
+1,Payment failed,My payment failed while trying to complete the transaction.,Billing
+89,HR contact,Please tell me who I should contact for an HR-related issue.,HR
+105,Company information,I would like some information about the company.,General
+66,Employee ID,I have not received my employee identification card.,HR
+46,API error,Our API requests are returning an unexpected error.,Technical
+32,Application crash,The application crashes whenever I try to open it.,Technical
+71,HR policy,Where can I find the latest HR policies?,HR
+43,Browser problem,The portal does not work correctly in my browser.,Technical
+13,Payment declined,My payment was declined even though my card is active.,Billing
+16,Wrong amount charged,The amount charged to my card is incorrect.,Billing
+115,Office map,Please share the office location and directions.,General
+77,Employee records,I need to update my personal information in HR records.,HR
+98,Company newsletter,Where can I read the latest company newsletter?,General
+25,Payment history,Please provide my recent payment history.,Billing
+79,Notice period,What is the notice period for my position?,HR
+23,Refund delay,The refund is taking longer than expected.,Billing
+97,Office location,Please share the address of the company office.,General
+57,Notification problem,I am not receiving system notifications.,Technical
+111,Office closure,Will the office be closed during the upcoming holiday?,General
+31,Cannot login,I am unable to log into my account.,Technical
+54,Data not syncing,My data is not syncing between the application and server.,Technical
+119,Event venue,Please confirm the venue for the upcoming company event.,General
+10,Refund status,Can you tell me the current status of my refund?,Billing
+34,Server error,I receive a server error when accessing the dashboard.,Technical
+26,Credit not applied,The credit I was promised has not appeared on my bill.,Billing
+70,Leave approval,My leave request is still waiting for approval.,HR
+29,Payment method,I want to change the payment method used for billing.,Billing
+99,General inquiry,I need some general information about the organization.,General
+86,ID card replacement,I need to request a replacement employee ID card.,HR
+6,Payment receipt,I need a receipt for my recent payment.,Billing
+91,Office event,Please share details about the upcoming company event.,General
+69,Work from home,I would like to request work from home for tomorrow.,HR
+40,Upload failed,I cannot upload files to the system.,Technical
+50,System outage,The service appears to be unavailable for all users.,Technical
+36,VPN not connecting,I cannot connect to the company VPN from my laptop.,Technical
+17,Refund request,I would like to request a refund for my recent purchase.,Billing
+67,Payroll question,I have a question about my salary calculation.,HR
+35,Password reset problem,The password reset link is not working.,Technical
+114,Contact HR,What is the general contact process for company departments?,General
+8,Invoice request,Please send me a copy of my latest invoice.,Billing
+44,Login error,I keep getting an error when entering my login details.,Technical
+73,Insurance details,I need details about the employee health insurance plan.,HR
+68,Holiday list,Please share the company holiday calendar.,HR
+84,Interview schedule,Please confirm the schedule for my HR interview.,HR
+28,Invoice due date,When is my next invoice payment due?,Billing
+20,Invoice correction,Please correct the incorrect details on my invoice.,Billing
+96,Visitor information,What is the procedure for visiting the office?,General
+101,Office facilities,What facilities are available at the office?,General
+9,Unexpected charge,There is an unexpected charge on my account.,Billing
+14,Billing cycle,Please clarify the dates of my current billing cycle.,Billing
+85,Employee transfer,I would like information about the internal transfer process.,HR
+4,Incorrect invoice,The invoice shows an amount that is different from what I expected.,Billing
+18,Payment confirmation,I made a payment but did not receive confirmation.,Billing
+39,System slow,The application has become extremely slow today.,Technical
+118,Announcement board,Where are internal company announcements posted?,General
+7,Subscription charge,I was charged for a subscription that I thought I had cancelled.,Billing
+78,Resignation process,Please explain the resignation process.,HR
+112,Visitor pass,How can I request a visitor pass?,General
+95,Meeting room,How can I book a meeting room for a team discussion?,General
+55,Installation error,The software installation stops with an error.,Technical
+51,Two factor authentication,I am not receiving the two factor authentication code.,Technical
+81,Overtime policy,Please explain the company overtime policy.,HR
+47,Mobile app issue,The mobile application closes unexpectedly.,Technical
+82,Maternity leave,I would like information about the maternity leave policy.,HR
+62,Leave balance,Please tell me how many paid leaves I have remaining.,HR
+117,General guidelines,Where can I find the general office guidelines?,General
+80,Payslip correction,There is an error in my payslip and I need help correcting it.,HR
+94,Contact information,Can you provide the contact details for the main office?,General
+42,Network issue,My computer cannot connect to the office network.,Technical
+59,Access error,I get an error when trying to access the technical portal.,Technical
+49,File download issue,I cannot download reports from the portal.,Technical
+102,Parking information,Please provide information about employee parking.,General
+58,Performance issue,The system response time is very slow.,Technical
+76,Training program,Please provide details about upcoming employee training.,HR
+33,Website not loading,The website is not loading properly.,Technical
+113,Company portal,Where can I find the company information portal?,General
+60,Feature not working,The search feature is not working as expected.,Technical
+64,Attendance issue,My attendance for yesterday is showing incorrectly.,HR
+106,Communication update,Where can I find the latest internal communication updates?,General
+38,Software installation,I need help installing the required software.,Technical
+30,Charge dispute,I would like to dispute a charge on my account.,Billing
+116,Team activity,Are there any upcoming team activities?,General
+2,Charged twice,The same amount was deducted from my account two times.,Billing
+53,Broken link,The documentation link on the portal returns an error.,Technical
+22,Subscription billing,I want to understand my recurring subscription charge.,Billing
+3,Refund not received,My refund was approved but I have not received the money yet.,Billing
+24,Billing address,I need to update the billing address on my account.,Billing
+104,Meeting schedule,Please share the schedule for the upcoming team meeting.,General
+100,Event registration,How can I register for the upcoming company event?,General
+88,Salary increment,When will the annual salary increment be announced?,HR
+109,Event details,Can you provide the date and location of the next event?,General
+75,Promotion process,Can you explain the employee promotion process?,HR
+87,Attendance correction,Please correct my attendance record for last week.,HR
+83,Recruitment status,Can you provide an update on my recruitment process?,HR
+120,Information request,Could you provide more information about the company services?,General
+21,Payment pending,My payment has been pending for several hours.,Billing
+61,Leave request,I would like to apply for annual leave.,HR
+72,Benefits information,Please provide information about employee benefits.,HR
+107,Office access,What are the general procedures for entering the office?,General
+15,Tax on invoice,Why has tax been added to my latest invoice?,Billing
+93,Office timings,Please confirm the normal office working hours.,General
+52,Connection timeout,The request keeps timing out when I access the service.,Technical
+103,Cafeteria timings,What are the cafeteria operating hours?,General
